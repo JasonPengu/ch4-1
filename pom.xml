@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>ch4-1-hello</module>
+        <module>ch4-1-gzip</module>
     </modules>
     <name>ch4-1</name>
     <url>http://springcloud.cn</url>
